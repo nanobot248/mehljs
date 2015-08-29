@@ -1,0 +1,17 @@
+{
+  "name": "mehljs",
+  "version": "0.1.0",
+  "description": "E-Mail processing library. Contains a basic e-mail parser and parsers/converters for several content types includding MIME multipart mails, images, ...",
+  "main": "./lib/package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Andreas Hubert",
+    "email": "nanobot248@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "encoding": "^0.1.11"
+  }
+}
