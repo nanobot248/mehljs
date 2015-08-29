@@ -1,6 +1,6 @@
 {
   "name": "mehljs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "E-Mail processing library. Contains a basic e-mail parser and parsers/converters for several content types includding MIME multipart mails, images, ...",
   "main": "./lib/package.js",
   "scripts": {
@@ -13,5 +13,13 @@
   "license": "MIT",
   "dependencies": {
     "encoding": "^0.1.11"
-  }
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/nanobot248/mehljs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nanobot248/mehljs/issues"
+  },
+  "homepage": "https://github.com/nanobot248/mehljs"
 }
